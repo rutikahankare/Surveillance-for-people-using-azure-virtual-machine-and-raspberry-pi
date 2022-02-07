@@ -2,7 +2,7 @@
 video file for this system :https://drive.google.com/file/d/1ywjgwM8xKDuA6L2KBXVBFedW3rzmQxuU/view?usp=sharing
 There are various remote accessing devices in the industry .But we cannot access these devices remotely on the hardware side .
 So to solve this problem ; difficulty to access the raspberry pi remotely we use python sockets which enables us to connect the server to the client. 
-The video from the client is sent to the Microsoft cloud virtual machine server code .
+The video from the client is sent to the Microsoft cloud virtual machine server code . this way we can access the file anywhere and have survelliance any desktop with the internet network .There is also no need to worry about the storage as the storage can be altered according to our requirement .
 Raspberry pi and raspberry pi camera are used to remotely monitor and send the data to Microsoft cloud virtual machine and access the live video. 
 Then the video is sent to the raspberry pi can be remotely accessed and also, we can access the video any time on the cloud which can be also accessed by using any personal computer so the data is safe and secured and can be accessed anywhere. 
 The Microsoft cloud is a secured interface so the data security problem can also be solved also the virtual machine works as a secondary computer that can store data in the cloud interface. 
